@@ -4,7 +4,7 @@ public class Proyecto_p {
 
 	public static void main(String[] args) {
 		System.out.println("Hola mundo");
-		System.out.println("otro cambio paulo");
+		System.out.println("Paulo Garcia");
 
 	}
 
