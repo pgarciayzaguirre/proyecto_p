@@ -10,6 +10,14 @@ public class Proyecto_p {
 
 
 		System.out.println("Paulo commit 2");
+
+		System.out.println("commit 4 paulo");
+
+
+		System.out.println("Commit 3 de Alex");
+        System.out.println("commit 5 paulo");
+
+
 		
 		System.out.println("commit 4 paulo");
 		
