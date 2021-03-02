@@ -9,7 +9,7 @@ public class Proyecto_p {
 		System.out.println("Paulo Garcia");
 
 
-		System.out.println("Hola chicos Alejandro");
+		
         
 	}
 
