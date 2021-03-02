@@ -7,9 +7,7 @@ public class Proyecto_p {
 		System.out.println("Hola mundo");
 
 		System.out.println("Paulo Garcia");
-
-		System.out.println("Paulo commit 2");
-
+		System.out.println("Commit 3 de Alex");
 
 		
         
